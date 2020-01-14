@@ -1,0 +1,11 @@
+export const HOME = '/'
+export const ESCOLA = "/escola"
+export const PROFESSOR = "/professor"
+export const PROFESSOR_PRIMEIRO_ACESSO = "/professor/primeiroacesso"
+export const LIVROS_POR_PROFESSOR = "/livros/professor"
+export const REGISTROS = "/registros"
+export const TURMA = "/turma"
+export const ALUNOS_POR_TURMA = "/turma/alunos"
+export const TURMAS_DO_PROFESSOR = "/turma/professor"
+export const ESQUECI_SENHA = "/esqueci_senha"
+export const DOWNLOAD = "/download"

@@ -1,0 +1,13 @@
+# action.yml
+name: "Leiturama web docker"
+description: 'Leiturama CI via Docker'
+inputs:
+  what-to-do:  # id of input
+    description: 'What npm will do'
+    required: true
+    default: 'test'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.what-to-do }}
