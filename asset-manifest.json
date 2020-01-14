@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leiturama/static/css/main.06078b19.chunk.css",
+    "main.js": "/leiturama/static/js/main.e1d15f00.chunk.js",
+    "main.js.map": "/leiturama/static/js/main.e1d15f00.chunk.js.map",
+    "runtime-main.js": "/leiturama/static/js/runtime-main.a9a8ec5a.js",
+    "runtime-main.js.map": "/leiturama/static/js/runtime-main.a9a8ec5a.js.map",
+    "static/js/2.1d3890ca.chunk.js": "/leiturama/static/js/2.1d3890ca.chunk.js",
+    "static/js/2.1d3890ca.chunk.js.map": "/leiturama/static/js/2.1d3890ca.chunk.js.map",
+    "index.html": "/leiturama/index.html",
+    "precache-manifest.ce2355e97e345ab7f4b05b98f847d53b.js": "/leiturama/precache-manifest.ce2355e97e345ab7f4b05b98f847d53b.js",
+    "service-worker.js": "/leiturama/service-worker.js",
+    "static/css/main.06078b19.chunk.css.map": "/leiturama/static/css/main.06078b19.chunk.css.map",
+    "static/media/logo.png": "/leiturama/static/media/logo.3aae021c.png"
+  }
+}
