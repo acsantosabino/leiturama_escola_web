@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/leiturama/static/css/main.06078b19.chunk.css",
-    "main.js": "/leiturama/static/js/main.e1d15f00.chunk.js",
-    "main.js.map": "/leiturama/static/js/main.e1d15f00.chunk.js.map",
-    "runtime-main.js": "/leiturama/static/js/runtime-main.a9a8ec5a.js",
-    "runtime-main.js.map": "/leiturama/static/js/runtime-main.a9a8ec5a.js.map",
-    "static/js/2.1d3890ca.chunk.js": "/leiturama/static/js/2.1d3890ca.chunk.js",
-    "static/js/2.1d3890ca.chunk.js.map": "/leiturama/static/js/2.1d3890ca.chunk.js.map",
-    "index.html": "/leiturama/index.html",
-    "precache-manifest.ce2355e97e345ab7f4b05b98f847d53b.js": "/leiturama/precache-manifest.ce2355e97e345ab7f4b05b98f847d53b.js",
-    "service-worker.js": "/leiturama/service-worker.js",
-    "static/css/main.06078b19.chunk.css.map": "/leiturama/static/css/main.06078b19.chunk.css.map",
-    "static/media/logo.png": "/leiturama/static/media/logo.3aae021c.png"
+    "main.css": "/leiturama_escola_web/static/css/main.06078b19.chunk.css",
+    "main.js": "/leiturama_escola_web/static/js/main.6bbd75af.chunk.js",
+    "main.js.map": "/leiturama_escola_web/static/js/main.6bbd75af.chunk.js.map",
+    "runtime-main.js": "/leiturama_escola_web/static/js/runtime-main.038be168.js",
+    "runtime-main.js.map": "/leiturama_escola_web/static/js/runtime-main.038be168.js.map",
+    "static/js/2.dcb81f32.chunk.js": "/leiturama_escola_web/static/js/2.dcb81f32.chunk.js",
+    "static/js/2.dcb81f32.chunk.js.map": "/leiturama_escola_web/static/js/2.dcb81f32.chunk.js.map",
+    "index.html": "/leiturama_escola_web/index.html",
+    "precache-manifest.5783e740e691f4a4b49797038bccb8e3.js": "/leiturama_escola_web/precache-manifest.5783e740e691f4a4b49797038bccb8e3.js",
+    "service-worker.js": "/leiturama_escola_web/service-worker.js",
+    "static/css/main.06078b19.chunk.css.map": "/leiturama_escola_web/static/css/main.06078b19.chunk.css.map",
+    "static/media/logo.png": "/leiturama_escola_web/static/media/logo.b518f3af.png"
   }
 }
