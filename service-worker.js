@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/leiturama_escola_web/precache-manifest.f941c8849cfa8c8e57477b07ba57b473.js"
+  "/leiturama_escola_web/precache-manifest.9442a2ebb0b55f4df3533bddbedd3567.js"
 );
 
 self.addEventListener('message', (event) => {
