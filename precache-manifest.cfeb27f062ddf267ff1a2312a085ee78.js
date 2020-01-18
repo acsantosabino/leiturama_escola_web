@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25f1e2cb9465f07ebf3af45f6c9d4c1e",
+    "revision": "eaa95b1e67894cab01dcc31ad6e07254",
     "url": "/leiturama_escola_web/index.html"
   },
   {
-    "revision": "6540ef9fbfd979b7551b",
+    "revision": "589652c69f4146af2e05",
     "url": "/leiturama_escola_web/static/css/main.06078b19.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/leiturama_escola_web/static/js/2.1d3ca37b.chunk.js"
   },
   {
-    "revision": "6540ef9fbfd979b7551b",
-    "url": "/leiturama_escola_web/static/js/main.60c3c09b.chunk.js"
+    "revision": "589652c69f4146af2e05",
+    "url": "/leiturama_escola_web/static/js/main.51842dc6.chunk.js"
   },
   {
     "revision": "74e9ac3d8e852d17bed3",
